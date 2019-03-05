@@ -47,6 +47,7 @@ Using classes, describe any process or system known to you:
 
 1. Import dataset Iris.
 >url = 'ttps://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data'
+
 >iris = np.genfromtxt(url, delimhiter=',', dtype='object')
 2. Remove the column 'species'.
 3. Convert the first 4 columns to a 2D array.
@@ -69,26 +70,27 @@ Write regular expression for:
 - Mobile phone in format +38xx-xxx-xx-xx. 
 - Data in format DD.ММ.YYYY or DD/ММ/YYYY. 
 - Email.
-* ZIP codes UK
+- ZIP codes UK.
 
-[File readable_regex](readeble_regex) contain regular expression for zip codes of UK split by "|". It was create because full regular expression don`t readable from file. [Full regular expression](regex).
+[File readable_regex](hw5/readeble_regex) contain regular expression for zip codes of UK split by "|". It was create because full regular expression don`t readable from file. [Full regular expression](hw5/regex).
 
 **Homework №6**
 
-Some tasks to practice in using dataFrames with Pandas.
+Some tasks for practice in using dataFrames with Pandas.
 
 **Homework №7**
 
-Some tasks to practice in visualization using matplotlib, seaborn.
+Some tasks for practice in visualization using matplotlib, seaborn.
 
 **Homework №8**
 
 First three weeks from the final project of specialization MPTI and Yandex ["Machine learning and data analysis"](https://datasciencecourse.ru/). 
-*Week 2 isn`t full*
+(*Week 2 isn`t full*)
 
 **Homework №9**
 
 *Task 1*
+
 Full second week from ["Machine learning and data analysis"](https://datasciencecourse.ru/).
 
 *Task 2*
