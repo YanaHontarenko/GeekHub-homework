@@ -72,7 +72,7 @@ Write regular expression for:
 - Email.
 - ZIP codes UK.
 
-[File readable_regex](hw5/readeble_regex) contain regular expression for zip codes of UK split by "|". It was create because full regular expression don`t readable from file. [Full regular expression](hw5/regex).
+[File readable_regex](hw5/readable_regex) contain regular expression for zip codes of UK split by "|". It was create because full regular expression don`t readable from file. [Full regular expression](hw5/regex).
 
 **Homework №6**
 
